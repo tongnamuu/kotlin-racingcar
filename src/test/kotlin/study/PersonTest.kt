@@ -39,5 +39,4 @@ class PersonTest {
         assertThat(person1.age).isEqualTo(person2.age)
         assertThat(person1.nickname).isNotEqualTo(person2.nickname)
     }
-
 }
